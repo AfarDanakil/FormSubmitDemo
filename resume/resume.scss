@@ -1,0 +1,29 @@
+@import "../../global.scss";
+//resume style
+
+.resumeImgContainer{   
+    max-width: 200px; 
+    overflow: hidden;
+       
+}
+.resumepar{
+  
+    text-align: center;
+    overflow: hidden; 
+}
+
+
+.resumeImg{
+    
+    width:100%; 
+    overflow: hidden; 
+    
+}
+.resumePdf{
+    width:50px;
+    text-decoration: none;
+    color:black;
+    padding:10px;   
+    overflow: hidden;  
+   
+}

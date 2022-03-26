@@ -1,0 +1,16 @@
+//intro Style
+
+.wrapper{
+  width:100vw;
+}
+.introPar{
+    padding:15px;
+    text-align: center;
+    overflow: hidden;                    
+}  
+  //intro image style
+
+.introImg{
+    
+clip-path: polygon(50%);
+}
